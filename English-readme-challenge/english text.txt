@@ -1,0 +1,15 @@
+What is an AGI?
+artificial general intelligence (AGI) which is the speculative intelligence of a machine that has the capacity to understand 
+or learn any intelligent task human being can, thus assisting human to unravel the confronted problem.
+
+How NLP (Natural Language Processing) works and where can we use it?
+The processing of human language by a computer program, such as spam detection and converting instantly 
+a language to another to help humans communicate.
+
+Can you name 3 practical ways AI could help people with disability? How?
+For blinds, it can create act an image processing system, read signs and words and can translate it into speech or hap-tic feedback.
+Robot caregivers can be a great help for persons who are disabled as robots can work around the clock to care for an individual without getting tired or needing a break.
+Exoskeletons for the paralyzed AI machines are drastically improving for those who are paralyzed as well robotic exoskeletons are making it easier for those who are paralyzed from the waist down to walk and release pressure that results frsitting. This type of tech is still in it's beginning stages so hopefully in the near future.
+
+About the negative impact of AI which concerns you the most? Why?
+AI can interfere in workers' jobs, causing many workers to become unemployed and end up looking for another area to "replace", this makes the other job devalued with such a demand for people in curriculums.
